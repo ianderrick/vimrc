@@ -1,0 +1,13 @@
+syntax on
+set encoding=utf8
+set relativenumber
+set number
+set hlsearch
+set expandtab
+set autoindent
+set ruler
+set showcmd
+set wildmenu
+set title
+set ttyfast
+set spell
